@@ -12,32 +12,32 @@
 -  🟧 HTML
 -  🎨 CSS
 -  ⚙️ JavaScript
--  ⚛️ React (React doesn't have a specific emoji, so you could use ⚛️, which represents atoms, aligning with React's atomic design concept.)
--  🔵 Vue.js (Vue.js doesn’t have a specific emoji, but you could use a blue circle to represent its logo color.)
+-  ⚛️ React 
+-  🔵 Vue.js 
 -  📦 Bootstrap
 -  🎨 SASS
 -   -----------------------------------------
 -  Back-End Development 💻
 -  🐘 PHP
--  🌳 Node.js (A tree can represent Node.js, symbolizing its green and lightweight nature.)
+-  🌳 Node.js 
 -  🔗 APIs
 -  ⚡ Express.js
 -  🐘 Laravel
--  🌿 Django (A leaf or plant can symbolize Django, aligning with its green logo.)
+-  🌿 Django 
 -  -----------------------------------------
 -  Database Management 📊
 -  🗄️ MySQL
--  🐘 PostgreSQL (Another option for PostgreSQL is to use the elephant emoji as it's often associated with this database.)
--  🍃 MongoDB (A leaf represents MongoDB, aligning with its logo.)
+-  🐘 PostgreSQL 
+-  🍃 MongoDB
 -  💾 SQLite
 -  🔥 Firebase
 -  🔧 Redis
 -  -----------------------------------------
 -  DevOps & Tools 🛠️
 -  🌳 Git
--  🐋 Docker (The whale emoji can represent Docker, aligning with its logo.)
+-  🐋 Docker 
 -  🔧 Jenkins
--  🌀 Nginx (The cyclone emoji can symbolize Nginx's power and speed.)
+-  🌀 Nginx 
 -  ☁️ AWS
 -  🚀 Heroku
 -  -----------------------------------------
